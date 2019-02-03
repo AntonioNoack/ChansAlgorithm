@@ -38,9 +38,12 @@ M = open the menue
 L / D = light / dark mode
 
 By changing
-	hStar = Math.min(hStar*hStar, n);
-in chan.ChansAlgorithm.java to e.g.
-	hStar = Math.min(2*hStar, n);
+```java
+hStar = Math.min(hStar * hStar, n);
+``` in chan.ChansAlgorithm.java to e.g.
+```java
+hStar = Math.min(2 * hStar, n);
+```
 you can easily demonstrate with the histogram mode, why the super exponential search is necessary.
 
 **Can I use your work for mine?**
