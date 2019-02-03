@@ -4,7 +4,7 @@ A Java implementation of Chan's Algorithm with nicely animated progress and run 
 **What's Chan's Algorithm?**
 
 Look it up on [Wikipedia](https://en.wikipedia.org/wiki/Chan%27s_algorithm) ;), or read some papers about it.
-It's an efficient algorithm to calculate the convex hull of points in the plane with runtime of *O(|Points| times log(|Hull|))*, so in most cases even better than O(|Points| times log(|Points|)) or O(|Points| times |Hull|).
+It's an efficient algorithm to calculate the convex hull of points in the plane with runtime of **O(|Points| times log(|Hull|))**, so in most cases even better than **O(|Points| times log(|Points|))** or **O(|Points| times |Hull|)**.
 
 The algorithm is based on Grahams Scan, which is executed on subsets of the points, and a modified version of Jarvis March, combining Jarvis March with binary search.
 My sources were Wikipedia, [this](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Chan's_algorithm.html) and [this site](http://www.wikiwand.com/en/Chan%27s_algorithm).
