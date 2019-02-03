@@ -632,7 +632,7 @@ public abstract class GraphFrame extends JLabel {
 				Button.draw(g, menueSmallFontMetrics, "uniform", nnColor, nColor, .333f, y2, .333f, dy2, x0, dx, mx, my, GfxRequest.config.generatorIndex == 1);
 				Button.draw(g, menueSmallFontMetrics, "trian.", nnColor, nColor, .666f, y2, .333f, dy2, x0, dx, mx, my, GfxRequest.config.generatorIndex == 2);
 				Button.draw(g, menueSmallFontMetrics, "cir0%", nnColor, nColor, .000f, y3, .334f, dy3, x0, dx, mx, my, GfxRequest.config.generatorIndex == 3);
-				Button.draw(g, menueSmallFontMetrics, "cir99%",  nnColor, nColor, .333f, y3, .333f, dy3, x0, dx, mx, my, GfxRequest.config.generatorIndex == 4);
+				Button.draw(g, menueSmallFontMetrics, "cir90%",  nnColor, nColor, .333f, y3, .333f, dy3, x0, dx, mx, my, GfxRequest.config.generatorIndex == 4);
 				Button.draw(g, menueSmallFontMetrics, "cir100%",  nnColor, nColor, .667f, y3, .333f, dy3, x0, dx, mx, my, GfxRequest.config.generatorIndex == 5);
 				g.setFont(menueFont);
 				
