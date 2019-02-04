@@ -11,6 +11,8 @@ My sources were Wikipedia, [this](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL
 
 **What's your main function?**
 
+You can run the compiled.jar to see the program directly; otherwise:
+
 For running the algorithm only, you can take a look into the "chan" folder. You can remove the GfxRequest-calls in that case.
 If you want to admire the beauty of the algorithm, run the RunGraphically class inside the "run" folder.
 
