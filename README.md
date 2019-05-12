@@ -1,6 +1,8 @@
 # Chan's Algorithm
 A Java implementation of Chan's Algorithm with nicely animated progress and run time for education purposes.
 
+![alt text](https://raw.githubusercontent.com/AntonioNoack/ChansAlgorithm/master/raw/image.png)
+
 **What's Chan's Algorithm?**
 
 Look it up on [Wikipedia](https://en.wikipedia.org/wiki/Chan%27s_algorithm) ;), or read some papers about it.
